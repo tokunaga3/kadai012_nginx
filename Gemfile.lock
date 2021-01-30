@@ -105,8 +105,6 @@ GEM
     nokogiri (1.11.1)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
-    nokogiri (1.11.1-x86_64-linux)
-      racc (~> 1.4)
     pg (1.2.3)
     public_suffix (4.0.6)
     puma (3.12.6)
@@ -197,7 +195,6 @@ GEM
 
 PLATFORMS
   ruby
-  x86_64-linux
 
 DEPENDENCIES
   bootsnap (>= 1.1.0)
@@ -221,7 +218,7 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 RUBY VERSION
-   ruby 2.6.5p114
+   ruby 2.6.6p146
 
 BUNDLED WITH
-   2.1.4
+   1.17.2
